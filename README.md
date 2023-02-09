@@ -20,3 +20,5 @@ O código roda em um laço que recebe as propriedades até a pessoa digitar a pa
 <li>Github Desktop</li>
 <li>Git</li>
 </ul>
+
+<img src="prompt.png" alt="Prompt de Comando do Projeto" width="500" height="600">
