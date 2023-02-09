@@ -21,4 +21,5 @@ O código roda em um laço que recebe as propriedades até a pessoa digitar a pa
 <li>Git</li>
 </ul>
 
-<img src="prompt.png" alt="Prompt de Comando do Projeto" width="500" height="600">
+<h3>🖥 Prompt de comando exibindo as propriedades anteriormente inseridas</h3>
+<img src="prompt.png" alt="Prompt de Comando do Projeto">
